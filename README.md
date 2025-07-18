@@ -18,4 +18,6 @@ This tool analyzes SSH logs to detect failed login attempts, helping identify po
 Install with:
 
 ```bash
+apt upgrade
 pip install colorama
+
